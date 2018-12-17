@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/nadege/CLionProjects/alarm/Alarmierbar.h
+iostream
+-
+
+/Users/nadege/CLionProjects/alarm/AlarmierbarImpl.cpp
+AlarmierbarImpl.h
+/Users/nadege/CLionProjects/alarm/AlarmierbarImpl.h
+iostream
+-
+sstream
+-
+
+/Users/nadege/CLionProjects/alarm/AlarmierbarImpl.h
+Alarmierbar.h
+/Users/nadege/CLionProjects/alarm/Alarmierbar.h
+
