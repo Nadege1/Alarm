@@ -1,1 +1,0 @@
-/Library/Developer/CommandLineTools/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/main.cpp.dir/DetektorImpl.cpp.o CMakeFiles/main.cpp.dir/BewegungsDetektor.cpp.o CMakeFiles/main.cpp.dir/GeraeuschDetektor.cpp.o CMakeFiles/main.cpp.dir/Flutlicht.cpp.o CMakeFiles/main.cpp.dir/Sirene.cpp.o  -o main.cpp 
